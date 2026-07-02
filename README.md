@@ -1,4 +1,4 @@
-# Accelerate
+# Accelerate 
 
 Accelerate is an AI-powered executive business intelligence dashboard for healthcare leadership teams. It presents hospital performance, operations, financial, clinical, HR, patient experience, and predictive analytics in a CEO-style command center.
 
